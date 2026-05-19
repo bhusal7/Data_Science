@@ -1,0 +1,50 @@
+[
+    {
+        "name": "pradeep",
+        "age": 19,
+        "email": "pradeepbbusal@gmail.com",
+        "pin": 1234,
+        "accountNo": 1234,
+        "balance": 0
+    },
+    {
+        "name": "ram",
+        "age": 22,
+        "email": "ram.com",
+        "pin": 1234,
+        "accountNo": 1234,
+        "balance": 0
+    },
+    {
+        "name": "bashudev",
+        "age": 20,
+        "email": "bashudev@gmail.com",
+        "pin": 1234,
+        "accountNo": "ePT49)4",
+        "balance": 0
+    },
+    {
+        "name": "Bashudev Bhusal",
+        "age": 18,
+        "email": "bashudevbhusal07@gmail.com",
+        "pin": 1234,
+        "accountNo": "P87A0P#",
+        "balance": 0
+    },
+    {
+        "name": "Bashudev Bhusal",
+        "age": 18,
+        "email": "bhusalbashudev@gmail.com",
+        "pin": 1234,
+        "accountNo": "3rp6b7^",
+        "balance": 0
+    },
+    {
+        "name": "Bashudev Bhusal",
+        "age": 18,
+        "email": "bashudevbhusal@gmail.com",
+        "pin": 1234,
+        "accountNo": "u9EC4%4",
+        "balance": 0
+    }
+]
